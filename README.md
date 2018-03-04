@@ -41,3 +41,9 @@ The Eversec CTF was created by in 2016 by [gabemarshall](https://www.twitter.com
 |CarolinaCon 13| Team Red, Dangling Pointers, LeagueOfShadows|
 |BSides Raleigh 2017|doylersec, DarkN1ght, mhazinsk|
 |CarolinaCon 12| Dangling Pointers, red-devils, window lickers
+
+## Writeups
+- [dustjs command injection](https://www.doyler.net/security-not-included/nodejs-code-injection)
+- [rsa.pcapng](https://nbulischeck.io/ctf/bsides-chs-rsa-pcapng/)
+- [notreallymalicious.doc (BSides CHS 2017)](https://nbulischeck.io/ctf/bsides-chs-maldoc/)
+- [artifact (BSides CHS 2017)](https://nbulischeck.io/ctf/bsides-chs-artifact/)
