@@ -7,7 +7,7 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 
 ### About Eversec
 
-The Eversec CTF was created by in 2016 by [gabemarshall](https://www.twitter.com/gabemarshall) after being inspired by competing in the DerbyCon CTF. The Eversec CTF is now developed by the following individuals:
+The Eversec CTF was created by in 2016 by [gabemarshall](https://www.twitter.com/gabemarshall) after being inspired by competing in the DerbyCon CTF. The CTF is now developed by the following individuals:
 
 - [@gabemarshall](https://www.twitter.com/gabemarshall)
 - [@deyavito](https://www.twitter.com/)
