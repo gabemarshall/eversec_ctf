@@ -4,8 +4,8 @@ Eversec CTF @ BSides Charleston (2017)
 ## Top Teams
 
 - DanglingPointers
-- Blah
-- Blahblah
+- Team Red
+- USCCyber
 
 
 ## Challenge Contributors
