@@ -24,9 +24,7 @@
 <br><br>
 <div class="subnav">
     <ul class="nav nav-pills">
-
       <li class=""><a href="/portal.php"><button class="btn">Home</button></a></li>
-      <li class=""><a href="/events.php"><button class="btn">Events</button></a></l>
     </ul>
   </div>
 

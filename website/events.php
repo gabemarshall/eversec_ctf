@@ -16,6 +16,11 @@
     </thead>
     <tbody>
       <tr>
+        <td><a href="http://carolinacon.org/">CarolinaCon 14</a></td>
+        <td>TBD</td>
+        <td>April 13th 2018</td>
+      </tr>
+      <tr>
         <td><a href="http://bsidescharleston.org/">BSides Charleston 2017</a></td>
         <td>TBD</td>
         <td>November 11th 2017</td>
