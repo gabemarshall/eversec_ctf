@@ -30,6 +30,7 @@ The Eversec CTF was created by in 2016 by [gabemarshall](https://www.twitter.com
 | ------------- | ------------- |
 | [CarolinaCon 14](https://www.carolinacon.org)  | April 13-15th 2018 |
 | [BSides Asheville](https://bsidesasheville.com/) | June 22-23rd 2018  |
+| [BSides RDU](https://bsidesrdu.org/)|October 19th 2018|
 
 ## Past Events
 
