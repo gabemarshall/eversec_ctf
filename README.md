@@ -48,5 +48,6 @@ The Eversec CTF was created by in 2016 by [gabemarshall](https://www.twitter.com
 - [rsa.pcapng](https://nbulischeck.io/ctf/bsides-chs-rsa-pcapng/)
 - [notreallymalicious.doc (BSides CHS 2017)](https://nbulischeck.io/ctf/bsides-chs-maldoc/)
 - [Artifact (BSides CHS 2017)](https://nbulischeck.io/ctf/bsides-chs-artifact/)
+- [Subdomain Hijacking (BSides Raleigh 2017)](https://www.doyler.net/security-not-included/subdomain-hijacking-eversec)
 - [Strange Data #3 (BSides Raleigh 2017)](https://www.doyler.net/security-not-included/eversec-ctf-strange-data-3)
 - [BSides Raleigh 2016 (multiple challenges)](https://www.doyler.net/security-not-included/bsides-raleigh-ctf)
