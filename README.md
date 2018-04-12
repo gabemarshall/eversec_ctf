@@ -10,7 +10,7 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 The Eversec CTF was created by in 2016 by [gabemarshall](https://www.twitter.com/gabemarshall) after being inspired by competing in the DerbyCon CTF. The CTF is now developed by the following individuals:
 
 - [@gabemarshall](https://www.twitter.com/gabemarshall)
-- [@deyavito](https://www.twitter.com/)
+- [@deyavito](https://www.twitter.com/deyavito)
 - [@austinrobertson](https://www.twitter.com/austinrobertson)
 - [@stevemyrick](https://www.twitter.com/stevemyrick)
 - [@SandroBruscino](https://www.twitter.com/SandroBruscino)
@@ -44,7 +44,10 @@ The Eversec CTF was created by in 2016 by [gabemarshall](https://www.twitter.com
 |CarolinaCon 12| Dangling Pointers, red-devils, window lickers
 
 ## Writeups
-- [dustjs command injection](https://www.doyler.net/security-not-included/nodejs-code-injection)
+- [DustJs Command Injection](https://www.doyler.net/security-not-included/nodejs-code-injection)
 - [rsa.pcapng](https://nbulischeck.io/ctf/bsides-chs-rsa-pcapng/)
 - [notreallymalicious.doc (BSides CHS 2017)](https://nbulischeck.io/ctf/bsides-chs-maldoc/)
-- [artifact (BSides CHS 2017)](https://nbulischeck.io/ctf/bsides-chs-artifact/)
+- [Artifact (BSides CHS 2017)](https://nbulischeck.io/ctf/bsides-chs-artifact/)
+- [Subdomain Hijacking (BSides Raleigh 2017)](https://www.doyler.net/security-not-included/subdomain-hijacking-eversec)
+- [Strange Data #3 (BSides Raleigh 2017)](https://www.doyler.net/security-not-included/eversec-ctf-strange-data-3)
+- [BSides Raleigh 2016 (multiple challenges)](https://www.doyler.net/security-not-included/bsides-raleigh-ctf)
