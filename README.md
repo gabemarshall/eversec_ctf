@@ -15,7 +15,6 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 
 | Event  | Top Teams |
 | ------------- | ------------- |
-
 |BSides Asheville 2018 |defcon828, skyhawk, RedTeam611|
 |CarolinaCon 14 | securisec, Team RED, LeagueOfShad0ws |
 |BSides Charleston 2017| DanglingPointers, Team Red, USCCyber|
