@@ -22,7 +22,7 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 |BSides Asheville 2017| kn0, Punch0ut, willc|
 |CarolinaCon 13| Team Red, Dangling Pointers, LeagueOfShadows|
 |BSides Raleigh 2017|doylersec, DarkN1ght, mhazinsk|
-|CarolinaCon 12| Dangling Pointers, red-devils, window lickers
+|CarolinaCon 12| Dangling Pointers, securisec, window lickers
 
 ## Writeups
 - [DustJs Command Injection](https://www.doyler.net/security-not-included/nodejs-code-injection)
