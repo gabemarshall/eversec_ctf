@@ -9,12 +9,13 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 ## Upcoming Events
 | Event  | Date |
 | ------------- | ------------- |
-| [BSides RDU](https://bsidesrdu.org/)|October 19th 2018|
+| [CackalackyCon](https://cackalackycon.org/)|May 31st 2019|
 
 ## Past Events
 
 | Event  | Top Teams |
 | ------------- | ------------- |
+|BSides RDU 2018 |Welcome Thrillhouse Group, Ntropy, RELwc3k|
 |BSides Asheville 2018 |defcon828, skyhawk, RedTeam611|
 |CarolinaCon 14 | securisec, Team RED, LeagueOfShad0ws |
 |BSides Charleston 2017| DanglingPointers, Team Red, USCCyber|
