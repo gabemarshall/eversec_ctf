@@ -9,12 +9,13 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 ## Upcoming Events
 | Event  | Date |
 | ------------- | ------------- |
-| [BSides RDU](https://bsidesrdu.org/)|October 19th 2018|
+| [CackalackyCon](https://cackalackycon.org/)|May 31st 2019|
 
 ## Past Events
 
 | Event  | Top Teams |
 | ------------- | ------------- |
+|BSides RDU 2018 |Welcome Thrillhouse Group, Ntropy, RELwc3k|
 |BSides Asheville 2018 |defcon828, skyhawk, RedTeam611|
 |CarolinaCon 14 | securisec, Team RED, LeagueOfShad0ws |
 |BSides Charleston 2017| DanglingPointers, Team Red, USCCyber|
@@ -25,6 +26,10 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 |CarolinaCon 12| Dangling Pointers, securisec, window lickers
 
 ## Writeups
+- [Custom Cryptography + OSINT (BSides RDU 2018)] (https://www.doyler.net/security-not-included/custom-cryptography-osint)
+- [More S3 Subdomain Hijacking (BSides RDU 2018)] (https://www.doyler.net/security-not-included/s3-subdomain-hijacking-eversec)
+- [SQLite Injection (BSides RDU 2018)] (https://www.doyler.net/security-not-included/sqlite-injection)
+- [LeverSecB.png / Zsteg Uage (BSides RDU 2018)] (https://www.doyler.net/security-not-included/zsteg-easy-ctf-flags)
 - [DustJs Command Injection](https://www.doyler.net/security-not-included/nodejs-code-injection)
 - [rsa.pcapng](https://nbulischeck.io/ctf/bsides-chs-rsa-pcapng/)
 - [notreallymalicious.doc (BSides CHS 2017)](https://nbulischeck.io/ctf/bsides-chs-maldoc/)
