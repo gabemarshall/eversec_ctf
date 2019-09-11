@@ -7,29 +7,32 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 
 
 ## Upcoming Events
-| Event  | Date |
-| ------------- | ------------- |
-| [CackalackyCon](https://cackalackycon.org/)|May 31st 2019|
+| Event                                | Date           |
+| ------------------------------------ | -------------- |
+| [BSides RDU](https://bsidesrdu.org/) | Oct 18th, 2019 |
 
 ## Past Events
 
-| Event  | Top Teams |
-| ------------- | ------------- |
-|BSides RDU 2018 |Welcome Thrillhouse Group, Ntropy, RELwc3k|
-|BSides Asheville 2018 |defcon828, skyhawk, RedTeam611|
-|CarolinaCon 14 | securisec, Team RED, LeagueOfShad0ws |
-|BSides Charleston 2017| DanglingPointers, Team Red, USCCyber|
-|BSides Raleigh 2017| securisecctf, ch1kpee, navox|
-|BSides Asheville 2017| kn0, Punch0ut, willc|
-|CarolinaCon 13| Team Red, Dangling Pointers, LeagueOfShadows|
-|BSides Raleigh 2017|doylersec, DarkN1ght, mhazinsk|
-|CarolinaCon 12| Dangling Pointers, securisec, window lickers
+| Event                  | Top Teams                                    |
+| ---------------------- | -------------------------------------------- |
+| BSides Asheville 2019  | Team Red, AllFOU, skyhawk                    |
+| CackalackyCon 1        | noob_noob,League of Shadows, StormCTF        |
+| BSides RDU 2018        | Welcome Thrillhouse Group, Ntropy, RELwc3k   |
+| BSides Asheville 2018  | defcon828, skyhawk, RedTeam611               |
+| CarolinaCon 14         | securisec, Team RED, LeagueOfShad0ws         |
+| BSides Charleston 2017 | DanglingPointers, Team Red, USCCyber         |
+| BSides Raleigh 2017    | securisecctf, ch1kpee, navox                 |
+| BSides Asheville 2017  | kn0, Punch0ut, willc                         |
+| CarolinaCon 13         | Team Red, Dangling Pointers, LeagueOfShadows |
+| BSides Raleigh 2017    | doylersec, DarkN1ght, mhazinsk               |
+| CarolinaCon 12         | Dangling Pointers, securisec, window lickers |
 
 ## Writeups
-- [Custom Cryptography + OSINT (BSides RDU 2018)] (https://www.doyler.net/security-not-included/custom-cryptography-osint)
-- [More S3 Subdomain Hijacking (BSides RDU 2018)] (https://www.doyler.net/security-not-included/s3-subdomain-hijacking-eversec)
-- [SQLite Injection (BSides RDU 2018)] (https://www.doyler.net/security-not-included/sqlite-injection)
-- [LeverSecB.png / Zsteg Uage (BSides RDU 2018)] (https://www.doyler.net/security-not-included/zsteg-easy-ctf-flags)
+- [Eversec Fuel (CackalackyCon)](https://kebechet.net/post/12/CackalackyCon_-_EverSecCTF_Fuel)
+- [Custom Cryptography + OSINT (BSides RDU 2018)](https://www.doyler.net/security-not-included/custom-cryptography-osint)
+- [More S3 Subdomain Hijacking (BSides RDU 2018)](https://www.doyler.net/security-not-included/s3-subdomain-hijacking-eversec)
+- [SQLite Injection (BSides RDU 2018)](https://www.doyler.net/security-not-included/sqlite-injection)
+- [LeverSecB.png / Zsteg Uage (BSides RDU 2018)](https://www.doyler.net/security-not-included/zsteg-easy-ctf-flags)
 - [DustJs Command Injection](https://www.doyler.net/security-not-included/nodejs-code-injection)
 - [rsa.pcapng](https://nbulischeck.io/posts/bsides-chs-rsa-pcapng)
 - [notreallymalicious.doc (BSides CHS 2017)](https://nbulischeck.io/posts/bsides-chs-maldoc)
@@ -41,19 +44,21 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 
 ### About Eversec
 
-The Eversec CTF was created by in 2016 by [gabemarshall](https://www.twitter.com/gabemarshall) after being inspired by competing in the DerbyCon CTF. The CTF is now developed by the following individuals:
+The Eversec CTF was created in 2015 by [gabemarshall](https://www.twitter.com/gabemarshall) after being inspired by competing in the DerbyCon CTF. The CTF is currently developed and maintained by the following individuals:
 
 - [@gabemarshall](https://www.twitter.com/gabemarshall)
+- [@stevemyrick](https://www.twitter.com/stevemyrick)
+- [@jmacko](https://www.twitter.com/jmacko)
+- [@arkxadin](https://twitter.com/arkxadin)
+- [@ch1kpee](https://www.twitter.com/ch1kpee)
+- [@claytondorsey](https://www.twitter.com/claytondorsey)
 - [@deyavito](https://www.twitter.com/deyavito)
 - [@austinrobertson](https://www.twitter.com/austinrobertson)
-- [@stevemyrick](https://www.twitter.com/stevemyrick)
 - [@SandroBruscino](https://www.twitter.com/SandroBruscino)
-- [@claytondorsey](https://www.twitter.com/claytondorsey)
-- [@khpuddin](https://www.twitter.com/khpuddin)
-- [@luxcupitor](https://www.twitter.com/luxcupitor)
 - [@doylersec](https://www.twitter.com/doylersec)
 
 ### Special Thanks
 
+- [@luxcupitor](https://www.twitter.com/luxcupitor)
+- [@khpuddin](https://www.twitter.com/khpuddin)
 - [@RecViking](https://www.twitter.com/RecViking)
-- [@ch1kpee](https://www.twitter.com/ch1kpee)
