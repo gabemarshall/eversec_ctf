@@ -28,7 +28,10 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 | CarolinaCon 12         | Dangling Pointers, securisec, window lickers |
 
 ## Writeups
+
 - [Eversec Fuel (CackalackyCon)](https://kebechet.net/post/12/CackalackyCon_-_EverSecCTF_Fuel)
+- [artifact.mp4 & artifact.wav](https://blog.welcomethrill.house/2018/04/the-audacity-of-some-ctfs.html)
+- [libssh (BSides RDU 2018)](https://blog.welcomethrill.house/2018/10/2018-bsidesrdu-ctf.html)
 - [Custom Cryptography + OSINT (BSides RDU 2018)](https://www.doyler.net/security-not-included/custom-cryptography-osint)
 - [More S3 Subdomain Hijacking (BSides RDU 2018)](https://www.doyler.net/security-not-included/s3-subdomain-hijacking-eversec)
 - [SQLite Injection (BSides RDU 2018)](https://www.doyler.net/security-not-included/sqlite-injection)
