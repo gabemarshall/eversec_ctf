@@ -35,7 +35,7 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 - [Custom Cryptography + OSINT (BSides RDU 2018)](https://www.doyler.net/security-not-included/custom-cryptography-osint)
 - [More S3 Subdomain Hijacking (BSides RDU 2018)](https://www.doyler.net/security-not-included/s3-subdomain-hijacking-eversec)
 - [SQLite Injection (BSides RDU 2018)](https://www.doyler.net/security-not-included/sqlite-injection)
-- [LeverSecB.png / Zsteg Uage (BSides RDU 2018)](https://www.doyler.net/security-not-included/zsteg-easy-ctf-flags)
+- [LeverSecB.png / Zsteg Usage (BSides RDU 2018)](https://www.doyler.net/security-not-included/zsteg-easy-ctf-flags)
 - [DustJs Command Injection](https://www.doyler.net/security-not-included/nodejs-code-injection)
 - [rsa.pcapng](https://nbulischeck.io/posts/bsides-chs-rsa-pcapng)
 - [notreallymalicious.doc (BSides CHS 2017)](https://nbulischeck.io/posts/bsides-chs-maldoc)
