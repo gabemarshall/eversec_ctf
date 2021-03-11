@@ -9,12 +9,13 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 ## Upcoming Events
 | Event                                | Date           |
 | ------------------------------------ | -------------- |
-| [BSides RDU](https://bsidesrdu.org/) | Oct 18th, 2019 |
+| TBD | TBD |
 
 ## Past Events
 
 | Event                  | Top Teams                                    |
 | ---------------------- | -------------------------------------------- |
+| BSides RDU 2019        | Cos1ne, NotBob, a146                         |
 | BSides Asheville 2019  | Team Red, AllFOU, skyhawk                    |
 | CackalackyCon 1        | noob_noob,League of Shadows, StormCTF        |
 | BSides RDU 2018        | Welcome Thrillhouse Group, Ntropy, RELwc3k   |
