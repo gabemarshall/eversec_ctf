@@ -15,6 +15,8 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 
 | Event                  | Top Teams                                    |
 | ---------------------- | -------------------------------------------- |
+| BSides RDU 2022        | HackPackCTF, securisec, p80n-sec             |
+| BSides RDU 2021        | securisec, RELwc3k, H@ckF0rc30n3             |
 | BSides RDU 2019        | Cos1ne, NotBob, a146                         |
 | BSides Asheville 2019  | Team Red, AllFOU, skyhawk                    |
 | CackalackyCon 1        | noob_noob,League of Shadows, StormCTF        |
@@ -30,6 +32,10 @@ The Eversec CTF is a series of scenario based CTFs about a fictitious company th
 
 ## Writeups
 
+- [BSides RDU 2019 EverSec CTF Writeup](https://medium.com/@stevemyrick/bsides-rdu-2019-eversec-ctf-writeup-4d2f5bfb8661)
+
+- [2019 Stonecutters - Radioactive Man](https://blog.welcomethrill.house/2020/02/2019-stonecutters-radioactive-man.html)
+- [2019 BSidesRDU - "Noobs Table" Experience and Challenge Write-Up](https://blog.welcomethrill.house/2019/10/2019-bsidesrdu-noobs-table-experience.html)
 - [Eversec Fuel (CackalackyCon)](https://kebechet.net/post/12/CackalackyCon_-_EverSecCTF_Fuel)
 - [artifact.mp4 & artifact.wav](https://blog.welcomethrill.house/2018/04/the-audacity-of-some-ctfs.html)
 - [libssh (BSides RDU 2018)](https://blog.welcomethrill.house/2018/10/2018-bsidesrdu-ctf.html)
